@@ -1,5 +1,6 @@
 # das
 Repositorio para mis códigos del artículo de DAS.
+(26 nov) Repositorio usado también para la Práctica 2.
 
 Copyright (c) 2025 Francisco Rosa.
 
